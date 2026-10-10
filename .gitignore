@@ -1,0 +1,12 @@
+venv/
+data/
+__pycache__/
+*.pth
+temp_scans/
+*.dat
+*.jsonl
+.vs/
+bin/
+obj/
+*.user
+*.suo
